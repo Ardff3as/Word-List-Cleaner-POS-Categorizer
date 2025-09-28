@@ -1,0 +1,1480 @@
+abby -> abbey (noun)
+abe -> able (adjective)
+abigail -> labial (noun, adjective), auto-assigned as adjective
+abrahm -> brahmin (noun)
+abu -> tabu (noun, adjective), auto-assigned as noun
+acdbentity -> identity (noun)
+acm -> cm (noun)
+adenochrome -> chrome (noun, verb), auto-assigned as verb
+adidas -> adios (noun)
+adipex -> apex (noun)
+admin -> gamin (noun)
+adsl -> wads (noun, verb), auto-assigned as noun
+adware -> aware (adjective)
+afore -> force (noun, verb), auto-assigned as noun
+afrofuturism -> futurism (noun)
+against -> again (adverb)
+agata -> agate (noun)
+agatha -> agnathan (noun)
+agnes -> wages (noun, verb), auto-assigned as noun
+aka -> taka (noun)
+aladyn -> already (adverb)
+alan -> Galan (noun)
+albeit -> habit (noun, verb), auto-assigned as noun
+alderson -> Calderon (noun)
+aldo -> ado (noun)
+alec -> tale (noun)
+alessandro -> glissando (noun, adverb), auto-assigned as noun
+alessia -> Halesia (noun)
+alex -> ale (noun)
+alexandra -> Alexandria (noun)
+alfheim -> Waldheim (noun)
+alice -> slice (noun, verb), auto-assigned as noun
+alicia -> Galicia (noun)
+alison -> also (adverb)
+allan -> gallant (noun, adjective), auto-assigned as adjective
+allie -> allied (verb, adjective), auto-assigned as adjective
+allison -> Ellison (noun)
+alma -> halma (noun)
+alot -> lot (noun, verb), auto-assigned as noun
+although -> thought (noun, verb), auto-assigned as verb
+alzhaimers -> Alzheimers (noun)
+amanda -> tamandua (noun)
+ambien -> mien (noun)
+amid -> aid (noun, verb), auto-assigned as noun
+amidst -> mist (noun, verb), auto-assigned as verb
+among -> along (adverb)
+amongst -> most (adjective, adverb), auto-assigned as adverb
+ampland -> farmland (noun)
+amy -> army (noun)
+anansi -> ananas (noun)
+anansis -> analysis (noun)
+anastasia -> fantasia (noun)
+anc -> panic (noun, verb), auto-assigned as noun
+and -> hand (noun, verb), auto-assigned as noun
+andale -> handle (noun, verb), auto-assigned as verb
+andor -> candour (noun)
+andre -> anode (noun)
+andrea -> area (noun)
+andreas -> andrena (noun)
+androgyn -> androgyny (noun)
+andy -> handy (noun, adjective), auto-assigned as adjective
+andyyuanbctclabcomcn -> andyyuanbctclabcomcn (unknown)
+angela -> angel (noun)
+angeles -> angle (noun, verb), auto-assigned as verb
+angelo -> angel (noun)
+angie -> range (noun, verb), auto-assigned as noun
+anglo -> angle (noun, verb), auto-assigned as verb
+anita -> mania (noun)
+anito -> janitor (noun)
+ann -> anon (adverb)
+annie -> pannier (noun)
+annunaki -> annual (noun, adjective), auto-assigned as noun
+anons -> canon (noun)
+anonymization -> randomization (noun)
+ansible -> sensible (adjective)
+antidrug -> anti-drug_law (noun)
+antifa -> anti (noun, adjective), auto-assigned as noun
+antigrav -> nigra (noun)
+antigravity -> activity (noun)
+antivirus -> antitrust (adjective)
+anton -> wanton (noun, verb, adjective), auto-assigned as verb
+antonio -> antimonious (adjective)
+anybody -> body (noun, verb), auto-assigned as noun
+anyone -> canyon (noun)
+anything -> nothing (noun, adverb), auto-assigned as noun
+anytime -> daytime (noun)
+aol -> gaol (noun, verb), auto-assigned as noun
+apa -> papa (noun)
+apnic -> apneic (adjective)
+app -> Lapp (noun)
+applicantagent -> applicant (noun)
+approx -> approve (verb)
+apps -> pappus (noun)
+apsara -> mascara (noun)
+apsaras -> apparatus (noun)
+archie -> archives (noun, verb), auto-assigned as noun
+arg -> large (noun, adjective, adverb), auto-assigned as adjective
+asanka -> asana (noun)
+asase -> asset (noun)
+ashanti -> shanty (noun)
+ashley -> harshly (adverb)
+asn -> as (noun, adverb), auto-assigned as noun
+asshat -> assault (noun, verb), auto-assigned as noun
+assia -> cassia (noun)
+asthe -> taste (noun, verb), auto-assigned as noun
+asus -> ass (noun)
+ata -> data (noun)
+ati -> anti (noun, adjective), auto-assigned as noun
+atman -> matman (noun)
+aubrey -> abbey (noun)
+aud -> ad (noun, adverb), auto-assigned as noun
+audi -> audit (noun, verb), auto-assigned as noun
+audrey -> laundry (noun)
+auorora -> aurora (noun)
+ave -> wave (noun, verb), auto-assigned as noun
+avery -> very (adjective, adverb), auto-assigned as adjective
+avg -> avg (unknown)
+avi -> avid (adjective)
+aye -> maybe (adverb)
+ayllu -> all (adjective, adverb), auto-assigned as adjective
+bangbus -> bang (noun, verb, adverb), auto-assigned as verb
+baphomet -> blaspheme (verb)
+barbara -> barbaric (adjective)
+barbie -> barbwire (noun)
+barnes -> barn (noun)
+barney -> barely (adverb)
+barry -> carry (noun, verb), auto-assigned as verb
+barton -> baton (noun)
+basename -> basement (noun)
+baxter -> batter (noun, verb), auto-assigned as verb
+bbc -> bbc (unknown)
+bbw -> bbw (unknown)
+bcrr -> burr (noun, verb), auto-assigned as noun
+bcrrs -> cirrus (noun)
+bctc -> bycatch (noun)
+bdsm -> bdsm (unknown)
+beastality -> bestiality (noun)
+beastiality -> bestial (adjective)
+because -> cause (noun, verb), auto-assigned as noun
+becky -> beck (noun)
+bedford -> before (adverb)
+belinda -> blind (noun, verb, adjective), auto-assigned as noun
+belkin -> welkin (noun)
+bella -> bell (noun, verb), auto-assigned as noun
+belzebub -> Beelzebub (noun)
+bem -> beam (noun, verb), auto-assigned as noun
+benz -> bend (noun, verb), auto-assigned as noun
+bernie -> byrnie (noun)
+berseker -> berserker (noun, adjective), auto-assigned as noun
+bert -> bet (noun, verb), auto-assigned as verb
+bertha -> berth (noun, verb), auto-assigned as noun
+beside -> besides (adverb)
+bess -> bless (verb)
+bessie -> blessed (verb, adjective), auto-assigned as adjective
+betsy -> bet (noun, verb), auto-assigned as verb
+betty -> petty (noun, adjective), auto-assigned as adjective
+beverly -> severely (adverb)
+bianca -> Fabiana (noun)
+biascorrected -> correct (verb, adjective), auto-assigned as verb
+bibi -> bib (noun, verb), auto-assigned as noun
+bio -> brio (noun)
+biol -> bowl (noun, verb), auto-assigned as noun
+bioplastic -> plastic (noun, adjective), auto-assigned as adjective
+bios -> boss (noun, verb, adjective), auto-assigned as noun
+bitcoin -> coin (noun, verb), auto-assigned as verb
+bizrate -> pirate (noun, verb), auto-assigned as noun
+blanche -> balance (noun, verb), auto-assigned as noun
+blogging -> logging (noun, verb), auto-assigned as verb
+bloomberg -> bomber (noun)
+bls -> blush (noun, verb), auto-assigned as noun
+bluetooth -> tooth (noun)
+blvd -> bold (noun, adjective), auto-assigned as adjective
+bmw -> bm (noun)
+boc -> bronc (noun)
+bogdanoff -> ganof (noun)
+bolan -> blank (noun, verb, adjective), auto-assigned as noun
+bon -> born (noun, verb, adjective), auto-assigned as verb
+bool -> tool (noun, verb), auto-assigned as noun
+boris -> brisk (verb, adjective), auto-assigned as adjective
+boyd -> boy (noun)
+brandon -> abandon (noun, verb), auto-assigned as verb
+brenda -> bend (noun, verb), auto-assigned as noun
+brett -> burette (noun)
+brian -> bran (noun)
+britannica -> Britannic (adjective)
+britney -> briny (noun, adjective), auto-assigned as noun
+bryant -> brant (noun)
+buf -> bluff (noun, verb, adjective), auto-assigned as noun
+bufing -> buying (noun, verb), auto-assigned as verb
+bugeyed -> greyed (verb, adjective), auto-assigned as verb
+bukkake -> bake (verb)
+cadillac -> cedilla (noun)
+cal -> call (noun, verb), auto-assigned as verb
+caleb -> scale (noun, verb), auto-assigned as noun
+callie -> caller (noun, adjective), auto-assigned as noun
+cameron -> cameo (noun)
+carb -> car (noun)
+carey -> care (noun, verb), auto-assigned as noun
+carl -> car (noun)
+carla -> carload (noun)
+carlo -> carload (noun)
+carlotta -> carload (noun)
+carmela -> caramel (noun, adjective), auto-assigned as noun
+carmen -> care (noun, verb), auto-assigned as noun
+carolyn -> carbon (noun)
+carrie -> carrier (noun)
+casa -> casual (adjective)
+casey -> cause (noun, verb), auto-assigned as noun
+casio -> occasion (noun, verb), auto-assigned as noun
+cass -> class (noun, verb), auto-assigned as noun
+catania -> catatonia (noun)
+catarella -> chantarelle (noun)
+cathy -> catch (noun, verb), auto-assigned as verb
+cbs -> crabs (noun, verb), auto-assigned as noun
+ccd -> cc (noun, adjective), auto-assigned as noun
+cdt -> cd (noun, adjective), auto-assigned as noun
+cecil -> pencil (noun, verb), auto-assigned as noun
+cecilia -> ciliate (noun, adjective), auto-assigned as adjective
+celebs -> celesta (noun)
+celia -> celiac (adjective)
+cern -> cavern (noun, verb), auto-assigned as noun
+cet -> cent (noun)
+cfr -> cf (noun, adverb), auto-assigned as noun
+cgi -> ci (noun, adjective), auto-assigned as noun
+chan -> change (noun, verb), auto-assigned as noun
+changelog -> change (noun, verb), auto-assigned as noun
+charley -> charily (adverb)
+charlie -> chalice (noun)
+chelsea -> cheese (noun, verb), auto-assigned as noun
+chem -> scheme (noun, verb), auto-assigned as noun
+chevrolet -> chevre (noun)
+childrens -> child (noun)
+chloe -> close (noun, verb, adjective, adverb), auto-assigned as verb
+cho -> echo (noun, verb), auto-assigned as noun
+chris -> cherish (verb)
+christina -> christian (noun, adjective), auto-assigned as adjective
+christine -> christian (noun, adjective), auto-assigned as adjective
+chrysler -> chrysotile (noun)
+cinderwench -> intrench (verb)
+cindy -> windy (adjective)
+cingular -> singular (noun, adjective), auto-assigned as adjective
+cinzia -> clinical (adjective)
+cir -> cigar (noun)
+citysearch -> search (noun, verb), auto-assigned as noun
+civilrightsdata -> civil_right (noun)
+claire -> care (noun, verb), auto-assigned as noun
+clara -> clear (noun, verb, adjective, adverb), auto-assigned as verb
+clare -> care (noun, verb), auto-assigned as noun
+clarissa -> class (noun, verb), auto-assigned as noun
+clarke -> care (noun, verb), auto-assigned as noun
+claude -> clause (noun)
+claudia -> cauda (noun)
+clayton -> claystone (noun)
+clifford -> afford (verb)
+clint -> client (noun)
+cnet -> next (adjective, adverb), auto-assigned as adjective
+cnn -> canon (noun)
+cochrane -> crane (noun, verb), auto-assigned as noun
+cohen -> coherent (adjective)
+coleman -> clean (noun, verb, adjective, adverb), auto-assigned as adjective
+colin -> coin (noun, verb), auto-assigned as verb
+com -> come (noun, verb), auto-assigned as verb
+comin -> come_in (verb)
+comm -> common (noun, adjective), auto-assigned as adjective
+comms -> commons (noun)
+communitybased -> community (noun)
+compaq -> compare (noun, verb), auto-assigned as verb
+compositerelated -> composite (noun, adjective), auto-assigned as noun
+concetto -> concept (noun)
+conf -> con (noun, verb, adverb), auto-assigned as noun
+conferencing -> conference (noun)
+config -> confusing (verb, adjective), auto-assigned as verb
+confounder -> confound (verb)
+confounders -> confound (verb)
+connie -> cone (noun, verb), auto-assigned as noun
+connor -> contour (noun, verb), auto-assigned as noun
+const -> cost (noun, verb), auto-assigned as noun
+corrado -> corridor (noun)
+could -> cold (noun, adjective), auto-assigned as adjective
+counterprotesters -> counterpose (verb)
+courtnee -> court (noun, verb), auto-assigned as noun
+covid -> ovoid (noun, adjective), auto-assigned as noun
+craig -> scraping (noun, verb), auto-assigned as verb
+crdc -> card (noun, verb), auto-assigned as noun
+creatorartist -> creator (noun)
+cristian -> Christian (noun, adjective), auto-assigned as adjective
+cristiano -> Christian (noun, adjective), auto-assigned as adjective
+crm -> cm (noun)
+cruz -> ecru (noun)
+cryoship -> rosehip (noun)
+cryptocurrency -> currency (noun)
+ctrl -> control (noun, verb), auto-assigned as noun
+culo -> curl (noun, verb), auto-assigned as verb
+cumshot -> cut_short (verb)
+cumshots -> cut_short (verb)
+cyber -> cyder (noun)
+cyberattacks -> counterattack (noun, verb), auto-assigned as noun
+cybersecurity -> security (noun)
+cyclocarbon -> carbon (noun)
+daiana -> drain (noun, verb), auto-assigned as noun
+damiana -> damn (noun, verb, adjective, adverb), auto-assigned as adjective
+dan -> damn (noun, verb, adjective, adverb), auto-assigned as adjective
+daniela -> manila (noun)
+daniele -> dangle (verb)
+danny -> annoy (verb)
+dans -> dean (noun)
+darcy -> diary (noun)
+dave -> wave (noun, verb), auto-assigned as noun
+davide -> divide (noun, verb), auto-assigned as verb
+davidson -> vision (noun)
+dbf -> dbf (unknown)
+ddr -> udder (noun)
+dealtime -> daytime (noun)
+debian -> defiant (adjective)
+deborah -> dourah (noun)
+decennial -> denial (noun)
+dee -> deep (noun, adjective, adverb), auto-assigned as adjective
+deejay -> delay (noun, verb), auto-assigned as verb
+deepstate -> estate (noun)
+def -> defy (verb)
+definedcognitive -> defective (adjective)
+del -> deal (noun, verb), auto-assigned as verb
+delia -> delay (noun, verb), auto-assigned as verb
+dem -> deem (verb)
+denise -> devise (noun, verb), auto-assigned as verb
+dennis -> dentist (noun)
+dept -> depth (noun)
+derek -> desire (noun, verb), auto-assigned as noun
+deutsch -> detach (verb)
+deutsche -> detached (verb, adjective), auto-assigned as adjective
+dev -> devil (noun, verb), auto-assigned as noun
+devas -> devise (noun, verb), auto-assigned as verb
+devel -> develop (verb)
+dey -> deny (verb)
+diane -> dine (verb)
+dicke -> dickie (noun)
+didnt -> din (noun, verb), auto-assigned as noun
+diego -> die (noun, verb), auto-assigned as verb
+diff -> differ (verb)
+diffs -> differ (verb)
+dillon -> Villon (noun)
+dinah -> din (noun, verb), auto-assigned as noun
+dir -> dirt (noun, adjective), auto-assigned as noun
+disaggregated -> disagree (verb)
+dist -> odist (noun)
+div -> drive (noun, verb), auto-assigned as verb
+divx -> dive (noun, verb), auto-assigned as noun
+diy -> dizzy (verb, adjective), auto-assigned as adjective
+dns -> dense (adjective)
+doesnt -> descent (noun)
+doin -> din (noun, verb), auto-assigned as noun
+dom -> do (noun, verb), auto-assigned as verb
+donald -> tonal (adjective)
+donovan -> doorman (noun)
+dont -> dot (noun, verb), auto-assigned as noun
+dora -> fedora (noun)
+doraemon -> dragon (noun)
+dorothy -> worthy (noun, adjective), auto-assigned as adjective
+doth -> oath (noun)
+doug -> dog (noun, verb), auto-assigned as noun
+dow -> do (noun, verb), auto-assigned as verb
+downloadable -> download (verb)
+downvote -> devote (verb)
+doyle -> doyley (noun)
+dpi -> pi (noun)
+dsc -> disc (noun)
+during -> enduring (verb, adjective), auto-assigned as verb
+eau -> beau (noun)
+ebay -> easy (adjective, adverb), auto-assigned as adjective
+ebook -> book (noun, verb), auto-assigned as noun
+ebooks -> book (noun, verb), auto-assigned as noun
+eco -> echo (noun, verb), auto-assigned as noun
+ecommerce -> commence (verb)
+eddie -> die (noun, verb), auto-assigned as verb
+edith -> ditch (noun, verb), auto-assigned as verb
+edmund -> mound (noun, verb), auto-assigned as noun
+edna -> Sedna (noun)
+edt -> edit (verb)
+eileen -> element (noun)
+elaine -> feline (noun, adjective), auto-assigned as noun
+eleanor -> elevator (noun)
+electro -> elect (noun, verb, adjective), auto-assigned as verb
+elena -> melena (noun)
+eli -> relic (noun)
+elise -> eclipse (noun, verb), auto-assigned as verb
+eliza -> lizard (noun)
+ella -> cellar (noun)
+ellen -> belle (noun)
+ellie -> jellied (verb, adjective), auto-assigned as verb
+elliot -> hellion (noun)
+elliott -> hellion (noun)
+eloisa -> loins (noun)
+else -> lose (verb)
+elsie -> elite (noun, adjective), auto-assigned as noun
+elvio -> pelvic (adjective)
+emacs -> mac (noun)
+embase -> base (noun, verb, adjective), auto-assigned as noun
+emily -> milky (adjective)
+eminem -> examine (verb)
+emma -> lemma (noun)
+enb -> en (noun)
+endif -> end (noun, verb), auto-assigned as noun
+energybased -> energy (noun)
+eng -> being (noun, verb), auto-assigned as verb
+englishderived -> englishderived (unknown)
+ent -> tent (noun, verb), auto-assigned as noun
+enzo -> benzol (noun)
+epinions -> opinion (noun)
+epson -> son (noun)
+erbicella -> varicella (noun)
+ere -> here (noun, adjective, adverb), auto-assigned as adverb
+eric -> heroic (noun, adjective), auto-assigned as adjective
+ericsson -> permission (noun)
+erik -> risk (noun, verb), auto-assigned as noun
+ernest -> rest (noun, verb), auto-assigned as verb
+ernie -> genie (noun)
+erp -> erupt (verb)
+esmeralda -> emerald (noun)
+esovmc -> besom (noun)
+espn -> respond (verb)
+ethan -> thank (verb)
+ethel -> bethel (noun)
+eur -> recur (verb)
+eva -> evade (verb)
+eval -> reveal (verb)
+evan -> wean (verb)
+evelyn -> even (noun, verb, adjective, adverb), auto-assigned as adjective
+everybody -> everyday (adjective)
+everyone -> overdone (verb, adjective), auto-assigned as adjective
+everything -> severing (noun, verb), auto-assigned as verb
+exp -> expel (verb)
+expansys -> expand (verb)
+expedia -> expend (verb)
+ext -> text (noun)
+ezio -> Yezo (noun)
+fabio -> fabric (noun)
+fabrizio -> fabric (noun)
+facebook -> checkbook (noun)
+fairfield -> infield (noun)
+fasterthanlight -> flashlight (noun)
+federico -> federation (noun)
+felix -> fix (noun, verb), auto-assigned as verb
+feof -> feoff (noun)
+fer -> offer (noun, verb), auto-assigned as verb
+ferrari -> fear (noun, verb), auto-assigned as verb
+ferrocene -> fierceness (noun)
+filme -> file (noun, verb), auto-assigned as verb
+filmmaking -> making (noun, verb), auto-assigned as verb
+findarticles -> particle (noun)
+findlaw -> find (noun, verb), auto-assigned as verb
+fiona -> final (noun, adjective), auto-assigned as adjective
+fioricet -> force (noun, verb), auto-assigned as noun
+firefox -> fire (noun, verb), auto-assigned as noun
+firewire -> firework (noun)
+fisting -> fitting (noun, verb, adjective), auto-assigned as verb
+flickr -> lick (noun, verb), auto-assigned as verb
+floyd -> fly (noun, verb, adjective), auto-assigned as verb
+foo -> foot (noun, verb), auto-assigned as noun
+for -> form (noun, verb), auto-assigned as noun
+forbes -> forest (noun, verb), auto-assigned as noun
+forcefield -> forceful (adjective)
+fortnite -> fortune (noun)
+foto -> foot (noun, verb), auto-assigned as noun
+fotos -> Potos (noun)
+fourchan -> urchin (noun)
+foursided -> outside (noun, adjective, adverb), auto-assigned as adjective
+fraga -> rag (noun, verb), auto-assigned as verb
+fran -> fan (noun, verb), auto-assigned as verb
+francesca -> franc (noun)
+francesco -> ancestor (noun)
+francis -> franchise (noun, verb), auto-assigned as noun
+francisco -> frantic (adjective)
+frankie -> frank (noun, verb, adjective), auto-assigned as noun
+franz -> fan (noun, verb), auto-assigned as verb
+fraser -> raster (noun)
+fred -> red (noun, adjective), auto-assigned as noun
+freddie -> free (noun, verb, adjective, adverb), auto-assigned as verb
+freddy -> eddy (noun, verb), auto-assigned as noun
+freebsd -> feed (noun, verb), auto-assigned as verb
+fritz -> fit (noun, verb, adjective), auto-assigned as verb
+fro -> frown (noun, verb), auto-assigned as noun
+from -> room (noun, verb), auto-assigned as noun
+frontpage -> frontage (noun)
+ftl -> fatal (adjective)
+fuckin -> suck_in (verb)
+fuelfree -> cell-free (adjective)
+fujitsu -> jujitsu (noun)
+fwd -> fwd (unknown)
+gabe -> gamble (noun, verb), auto-assigned as noun
+gabriele -> gable (noun)
+gail -> gaily (adverb)
+gamecube -> gamble (noun, verb), auto-assigned as noun
+gamespot -> gatepost (noun)
+gangbang -> gangling (adjective)
+garcia -> maria (noun)
+garmin -> grin (noun, verb), auto-assigned as noun
+garrett -> garret (noun)
+gavin -> gain (noun, verb), auto-assigned as verb
+gba -> gleba (noun)
+gbp -> gbp (unknown)
+gcc -> cc (noun, adjective), auto-assigned as noun
+gematrixdotorg -> gematrixdotorg (unknown)
+genomic -> economic (adjective)
+genotyping -> typing (noun, verb), auto-assigned as verb
+geo -> go (noun, verb, adjective), auto-assigned as verb
+geocoded -> recorded (verb, adjective), auto-assigned as verb
+geocoder -> recorder (noun)
+geoffrey -> Joffrey (noun)
+gerald -> general (noun, verb, adjective), auto-assigned as adjective
+gerard -> gear (noun, verb), auto-assigned as noun
+gertrude -> protrude (verb)
+gettin -> get_in (verb)
+giacomo -> giacomo (unknown)
+gianluca -> gitana (noun)
+gianmaria -> grammarian (noun)
+gianni -> giant (noun, adjective), auto-assigned as noun
+gideon -> widen (verb)
+gif -> gift (noun, verb), auto-assigned as noun
+gil -> girl (noun)
+giles -> agile (adjective)
+gina -> gin (noun, verb), auto-assigned as noun
+ginny -> tinny (adjective)
+giorgia -> Georgia (noun)
+giorgio -> giro (noun)
+giovanna -> gitana (noun)
+giovanni -> Diovan (noun)
+gitmo -> gizmo (noun)
+giulia -> gula (noun)
+giulio -> giulio (unknown)
+giuseppe -> steppe (noun)
+giusy -> guy (noun, verb), auto-assigned as noun
+gloria -> glorify (verb)
+gmbh -> gmbh (unknown)
+gmc -> gm (noun)
+godfrey -> grey (noun, verb, adjective), auto-assigned as noun
+goin -> go_in (verb)
+goku -> gout (noun)
+goldflowered -> flowerbed (noun)
+gonna -> gonad (noun)
+gordon -> godson (noun)
+goto -> go_to (verb)
+gotta -> glottal (adjective)
+gov -> go (noun, verb, adjective), auto-assigned as verb
+gpl -> gpl (unknown)
+graduatelevel -> gradually (adverb)
+grande -> grade (noun, verb), auto-assigned as noun
+gras -> grass (noun, verb), auto-assigned as verb
+gratuit -> gratitude (noun)
+greg -> grey (noun, verb, adjective), auto-assigned as noun
+gresy -> greasy (adjective)
+grinch -> inch (noun, verb), auto-assigned as noun
+groundwater -> ground_water (noun)
+gsm -> gm (noun)
+gst -> guest (noun)
+gtk -> gtk (unknown)
+guestbook -> guest (noun)
+guin -> gun (noun, verb), auto-assigned as noun
+guygirl -> girl (noun)
+gwen -> wend (verb)
+gzip -> grip (noun, verb), auto-assigned as noun
+hal -> halt (noun, verb, adjective), auto-assigned as verb
+halftruths -> half-truth (noun)
+handhelds -> handheld (adjective)
+handjob -> hand (noun, verb), auto-assigned as noun
+handjobs -> hands (noun, verb), auto-assigned as noun
+hannah -> anna (noun)
+hansen -> hasten (verb)
+harley -> hardly (adverb)
+harold -> hold (noun, verb), auto-assigned as verb
+harriet -> arrive (verb)
+hast -> hat (noun, verb), auto-assigned as noun
+hath -> hat (noun, verb), auto-assigned as noun
+hauptprozessor -> suppressor (noun)
+hearted -> heart (noun)
+heidi -> hiding (noun, verb), auto-assigned as verb
+henderson -> Anderson (noun)
+henri -> hen (noun)
+henrietta -> heritage (noun)
+hentai -> entail (noun, verb), auto-assigned as verb
+her -> here (noun, adjective, adverb), auto-assigned as adverb
+hers -> shears (noun, verb), auto-assigned as verb
+herself -> here (noun, adjective, adverb), auto-assigned as adverb
+heshe -> thresh (verb)
+hester -> ester (noun)
+hewlett -> newsletter (noun)
+hey -> honey (noun, verb, adjective), auto-assigned as noun
+hightech -> hitch (noun, verb), auto-assigned as noun
+hilda -> child (noun)
+hilton -> hilt (noun)
+him -> hilum (noun)
+himself -> self (noun, adjective), auto-assigned as noun
+his -> hiss (noun, verb), auto-assigned as verb
+hist -> hit (noun, verb), auto-assigned as verb
+hitachi -> hitch (noun, verb), auto-assigned as noun
+hmm -> mm (noun)
+holdem -> hold (noun, verb), auto-assigned as verb
+holt -> hot (adjective)
+hominem -> ad_hominem (adjective)
+hon -> horn (noun, verb), auto-assigned as noun
+honda -> hound (noun, verb), auto-assigned as noun
+hong -> song (noun)
+hotmail -> tail (noun, verb), auto-assigned as noun
+housewares -> housewife (noun)
+how -> show (noun, verb), auto-assigned as verb
+howto -> hot (adjective)
+hplease -> please (verb, adverb), auto-assigned as verb
+href -> hire (noun, verb), auto-assigned as verb
+hubert -> hurt (noun, verb, adjective), auto-assigned as verb
+hugh -> though (adverb)
+huh -> hunch (noun, verb), auto-assigned as noun
+hwy -> showy (adjective)
+hyde -> hide (noun, verb), auto-assigned as verb
+hydrocodone -> hydrocarbon (noun)
+hyundai -> unai (noun)
+iacobello -> cowbell (noun)
+ian -> in (noun, adjective, adverb), auto-assigned as noun
+ibid -> bid (noun, verb), auto-assigned as verb
+ibm -> bm (noun)
+icq -> ic (noun, adjective), auto-assigned as noun
+ict -> ic (noun, adjective), auto-assigned as noun
+iddqd -> lidded (adjective)
+ide -> side (noun, verb, adjective), auto-assigned as noun
+ieee -> alienee (noun)
+illuminati -> illuminate (verb)
+img -> image (noun, verb), auto-assigned as noun
+inbox -> box (noun, verb), auto-assigned as noun
+incl -> include (verb)
+ind -> mind (noun, verb), auto-assigned as noun
+indels -> indexless (adjective)
+inf -> in (noun, adjective, adverb), auto-assigned as noun
+infact -> in_fact (adverb)
+ing -> sing (verb)
+inkjet -> inject (verb)
+inline -> incline (noun, verb), auto-assigned as verb
+int -> lint (noun)
+intel -> inter (verb)
+interactively -> interactive (adjective)
+intl -> instal (verb)
+into -> intone (verb)
+invan -> divan (noun)
+invision -> vision (noun)
+iot -> pilot (noun, verb), auto-assigned as noun
+ipaq -> nipa (noun)
+irc -> ic (noun, adjective), auto-assigned as noun
+ircumference -> reference (noun, verb), auto-assigned as noun
+irene -> renew (verb)
+isa -> vista (noun)
+isabel -> disable (verb)
+isbn -> disband (verb)
+iso -> so (noun, adverb), auto-assigned as adverb
+isp -> crisp (noun, verb, adjective), auto-assigned as adjective
+issn -> miss (noun, verb), auto-assigned as verb
+ist -> list (noun, verb), auto-assigned as verb
+italiano -> Italian (noun, adjective), auto-assigned as noun
+itis -> Vitis (noun)
+itself -> self (noun, adjective), auto-assigned as noun
+itunes -> witness (noun, verb), auto-assigned as noun
+ivan -> divan (noun)
+jackie -> jacket (noun, verb), auto-assigned as noun
+jacques -> acquiesce (verb)
+jahbuhlun -> jahbuhlun (unknown)
+jake -> take (noun, verb), auto-assigned as verb
+jamie -> jasmine (noun)
+jane -> wane (noun, verb), auto-assigned as verb
+janet -> net (noun, verb, adjective), auto-assigned as noun
+janice -> nice (noun, adjective), auto-assigned as adjective
+jannik -> jinni (noun)
+javascript -> script (noun, verb), auto-assigned as noun
+jeanne -> jennet (noun)
+jed -> jaded (verb, adjective), auto-assigned as verb
+jedi -> edit (verb)
+jeet -> meet (noun, verb, adjective), auto-assigned as verb
+jeff -> eff (verb)
+jeffrey -> jersey (noun)
+jelsoft -> soft (adjective, adverb), auto-assigned as adjective
+jenkins -> jerking (noun, verb, adjective), auto-assigned as verb
+jenna -> senna (noun)
+jennie -> jennet (noun)
+jennifer -> penknife (noun)
+jeremy -> enemy (noun)
+jess -> less (adjective, adverb), auto-assigned as adjective
+jesse -> vessel (noun)
+jessica -> vesica (noun)
+jessie -> Nessie (noun)
+jewbot -> jabot (noun)
+jill -> will (noun, verb), auto-assigned as noun
+jim -> jimmy (noun, verb), auto-assigned as noun
+joan -> join (noun, verb), auto-assigned as verb
+joanna -> anna (noun)
+joe -> joke (noun, verb), auto-assigned as noun
+joey -> joy (noun, verb), auto-assigned as noun
+jon -> join (noun, verb), auto-assigned as verb
+jona -> join (noun, verb), auto-assigned as verb
+jonas -> monas (noun)
+jose -> nose (noun, verb), auto-assigned as noun
+josephine -> shine (noun, verb), auto-assigned as verb
+josie -> osier (noun)
+jpeg -> peg (noun, verb), auto-assigned as noun
+jpg -> jpg (unknown)
+juan -> junk (noun, verb), auto-assigned as noun
+judy -> jury (noun)
+jul -> jural (adjective)
+jules -> jumble (noun, verb), auto-assigned as noun
+juli -> ugli (noun)
+julia -> ultima (noun)
+julie -> lie (noun, verb), auto-assigned as verb
+juliet -> quiet (noun, verb, adjective, adverb), auto-assigned as adjective
+julius -> Aurelius (noun)
+jun -> junk (noun, verb), auto-assigned as noun
+justin -> just (adjective, adverb), auto-assigned as adverb
+jvc -> jvc (unknown)
+kai -> kwai (noun)
+kane -> wane (noun, verb), auto-assigned as verb
+karl -> kale (noun)
+kate -> skate (noun, verb), auto-assigned as noun
+katherine -> gathering (noun, verb), auto-assigned as verb
+kathleen -> athlete (noun)
+kathy -> earthy (adjective)
+katie -> tie (noun, verb), auto-assigned as noun
+katrina -> patina (noun)
+kay -> okay (noun, verb, adjective, adverb), auto-assigned as noun
+kdb -> kb (noun)
+kde -> kde (unknown)
+keith -> sketch (noun, verb), auto-assigned as noun
+kek -> kweek (noun)
+kelkoo -> elkwood (noun)
+kennedyere -> Kennedy (noun)
+kenneth -> beneath (adverb)
+kenny -> penny (noun)
+kerry -> merry (adjective)
+ketamina -> retina (noun)
+kevin -> ken (noun)
+keyword -> word (noun, verb), auto-assigned as noun
+keywords -> words (noun, verb), auto-assigned as noun
+kijiji -> kijiji (unknown)
+kim -> skim (noun, verb, adjective), auto-assigned as verb
+knowledgedatabase -> knowledgeable (adjective)
+knowledgestorm -> knowledge (noun)
+kodak -> oak (noun)
+kong -> long (verb, adjective, adverb), auto-assigned as adjective
+kurt -> hurt (noun, verb, adjective), auto-assigned as verb
+kyle -> kale (noun)
+lang -> lag (noun, verb), auto-assigned as verb
+lanka -> plank (noun, verb), auto-assigned as verb
+largescale -> large-scale (adjective)
+larry -> marry (verb)
+latina -> patina (noun)
+latinas -> patina (noun)
+lauderdale -> laudable (adjective)
+laura -> larva (noun)
+lauren -> lure (noun, verb), auto-assigned as noun
+laurence -> lance (noun, verb), auto-assigned as noun
+laurie -> lure (noun, verb), auto-assigned as noun
+leah -> leash (noun, verb), auto-assigned as noun
+leastofevils -> leastofevils (unknown)
+len -> lean (noun, verb, adjective), auto-assigned as verb
+leslie -> slide (noun, verb), auto-assigned as noun
+lester -> ester (noun)
+lexmark -> mark (noun, verb), auto-assigned as noun
+lexus -> plexus (noun)
+liam -> slam (noun, verb), auto-assigned as noun
+lib -> lb (noun)
+libs -> list (noun, verb), auto-assigned as verb
+lidl -> lid (noun)
+lightbox -> light (noun, verb, adjective, adverb), auto-assigned as adjective
+lil -> lilt (noun, verb), auto-assigned as noun
+lila -> lilac (noun, adjective), auto-assigned as noun
+lillian -> brilliant (adjective)
+linda -> lined (verb, adjective), auto-assigned as verb
+lionel -> lonely (adjective)
+lisa -> list (noun, verb), auto-assigned as verb
+listprice -> price (noun, verb), auto-assigned as noun
+litde -> slide (noun, verb), auto-assigned as noun
+livecam -> live (verb, adjective, adverb), auto-assigned as adjective
+livesex -> live (verb, adjective, adverb), auto-assigned as adjective
+liz -> liza (noun)
+lizzie -> albizzia (noun)
+llc -> lilac (noun, adjective), auto-assigned as noun
+llp -> llp (unknown)
+lmc -> lm (noun)
+loc -> lock (noun, verb), auto-assigned as verb
+login -> longing (noun, verb), auto-assigned as noun
+logitech -> logic (noun)
+lois -> lots (noun, verb, adverb), auto-assigned as noun
+lol -> loyal (adjective)
+longterm -> longer (noun, adjective, adverb), auto-assigned as adjective
+lookin -> look (noun, verb), auto-assigned as verb
+looksmart -> look_at (verb)
+loosh -> loose (verb, adjective, adverb), auto-assigned as adjective
+lopez -> slope (noun, verb), auto-assigned as noun
+lorenzo -> lore (noun)
+los -> lose (verb)
+lou -> loud (adjective, adverb), auto-assigned as adjective
+louisa -> lousy (adjective)
+louise -> lose (verb)
+ltd -> ltd (unknown)
+luca -> luck (noun)
+lucia -> lucid (adjective)
+lucien -> lucent (adjective)
+lucrezia -> lucre (noun)
+ludovica -> lorica (noun)
+luigi -> lug (noun, verb), auto-assigned as noun
+luis -> lust (noun, verb), auto-assigned as noun
+lycos -> cos (noun)
+lynn -> lynx (noun)
+mabel -> maybe (adverb)
+macromedia -> comedian (noun)
+macropod -> macrospore (noun)
+madeleine -> madrilene (noun)
+madeline -> myeline (noun)
+mae -> mate (noun, verb), auto-assigned as noun
+maf -> ma (noun)
+mafiosa -> mafioso (noun)
+maga -> saga (noun)
+magellanic -> Magellan (noun)
+maggie -> imagine (verb)
+mahakala -> maharaja (noun)
+mai -> main (noun, adjective), auto-assigned as adjective
+mailto -> mail (noun, verb), auto-assigned as noun
+malcolm -> alcohol (noun)
+mallory -> allegory (noun)
+malware -> aware (adjective)
+mandy -> many (adjective)
+manfredi -> marked (verb, adjective), auto-assigned as verb
+manga -> malanga (noun)
+manuel -> manure (noun, verb), auto-assigned as noun
+manuela -> manure (noun, verb), auto-assigned as noun
+marco -> march (noun, verb), auto-assigned as noun
+marcus -> arcus (noun)
+mardi -> mad (adjective)
+margaret -> margarita (noun)
+mariah -> maria (noun)
+mariana -> maria (noun)
+marianne -> marine (noun, adjective), auto-assigned as adjective
+mariarosaria -> mariposa (noun)
+marie -> married (noun, verb, adjective), auto-assigned as verb
+marilyn -> warily (adverb)
+mario -> maria (noun)
+marion -> maroon (noun, verb, adjective), auto-assigned as noun
+marjorie -> major (noun, verb, adjective), auto-assigned as adjective
+marriott -> parrot (noun, verb), auto-assigned as noun
+martha -> math (noun)
+marty -> martyr (noun, verb), auto-assigned as noun
+mastercard -> master (noun, verb, adjective), auto-assigned as noun
+matilda -> mantilla (noun)
+mattie -> matter (noun, verb), auto-assigned as noun
+maud -> mad (adjective)
+maureen -> measurement (noun)
+maurice -> mature (verb, adjective), auto-assigned as verb
+maurizio -> malnutrition (noun)
+mazda -> mad (adjective)
+mcdonald -> monal (noun)
+mediawiki -> mediawiki (unknown)
+meetup -> meet (noun, verb, adjective), auto-assigned as verb
+mega -> meat (noun)
+megalibrary -> library (noun)
+megan -> mean (noun, verb, adjective), auto-assigned as adjective
+mel -> meal (noun)
+melanie -> melanize (verb)
+melinda -> Camelina (noun)
+melo -> melon (noun)
+ment -> moment (noun)
+mercedes -> secede (verb)
+meta -> metal (noun, verb, adjective), auto-assigned as noun
+metaanalysed -> analyse (verb)
+metaanalysis -> analysis (noun)
+metaethical -> ethical (adjective)
+metaethics -> ethics (noun)
+metallica -> nonmetallic (adjective)
+metatron -> matron (noun)
+metaverse -> traverse (noun, verb), auto-assigned as noun
+meyer -> eye (noun, verb), auto-assigned as noun
+mia -> ma (noun)
+mic -> music (noun)
+michel -> micelle (noun)
+michelle -> micelle (noun)
+microarraybased -> microfarad (noun)
+microsoft -> microdot (noun)
+miguel -> mogul (noun)
+mildred -> minded (verb, adjective), auto-assigned as verb
+milf -> mill (noun, verb), auto-assigned as noun
+milfhunter -> hunter (noun)
+milfs -> mil (noun)
+millie -> milline (noun)
+minnie -> mine (noun, verb), auto-assigned as noun
+minolta -> mint (noun, verb, adjective), auto-assigned as noun
+miranda -> pirana (noun)
+miriam -> maria (noun)
+misc -> miss (noun, verb), auto-assigned as verb
+misclassification -> classification (noun)
+mitch -> pitch (noun, verb), auto-assigned as verb
+mitsubishi -> mitosis (noun)
+mlb -> ml (noun)
+mmddyyyy -> mmddyyyy (unknown)
+mme -> mm (noun)
+monica -> monodical (adjective)
+monomials -> nominal (noun, adjective), auto-assigned as adjective
+montalbano -> contraband (noun, adjective), auto-assigned as noun
+motherboard -> overboard (adverb)
+motherfucking -> smothering (verb, adjective), auto-assigned as verb
+motorola -> motor (noun, verb, adjective), auto-assigned as noun
+mozilla -> zill (noun)
+msgid -> mid (adjective)
+msgstr -> songster (noun)
+msie -> size (noun, verb, adjective), auto-assigned as noun
+msn -> ms (noun)
+mtdb -> mtdb (unknown)
+mtv -> tv (noun)
+multi -> multiply (verb, adverb), auto-assigned as verb
+multicloud -> multicoloured (adjective)
+mundi -> mud (noun, verb), auto-assigned as noun
+muze -> muse (noun, verb), auto-assigned as noun
+myers -> years (noun)
+mykah -> mynah (noun)
+myself -> self (noun, adjective), auto-assigned as noun
+mysimon -> mission (noun)
+myspace -> space (noun, verb), auto-assigned as noun
+mysql -> mysql (unknown)
+nam -> name (noun, verb), auto-assigned as verb
+namecalling -> name_calling (noun)
+namespace -> space (noun, verb), auto-assigned as noun
+nano -> nan (noun)
+nanoparticle -> particle (noun)
+naruto -> auto (noun)
+nascar -> scar (noun, verb), auto-assigned as noun
+nat -> neat (adjective)
+natalie -> natal (noun, adjective), auto-assigned as noun
+nate -> senate (noun)
+nathan -> agnathan (noun)
+nathaniel -> natal (noun, adjective), auto-assigned as noun
+natured -> nature (noun)
+nav -> navy (noun)
+nba -> unbar (verb)
+nbc -> nbc (unknown)
+ncaa -> napa (noun)
+nea -> near (verb, adjective, adverb), auto-assigned as adjective
+ned -> need (noun, verb), auto-assigned as noun
+neil -> evil (noun, adjective), auto-assigned as noun
+nell -> well (noun, verb, adjective, adverb), auto-assigned as adverb
+nellie -> netlike (adjective)
+nephilim -> nihilism (noun)
+netflix -> netlike (adjective)
+neuralink -> neutral (noun, adjective), auto-assigned as adjective
+nevio -> neo (adjective)
+nextel -> next (adjective, adverb), auto-assigned as adjective
+nfl -> nfl (unknown)
+nhl -> hl (noun)
+nibiru -> niobium (noun)
+nichols -> Nicholas (noun)
+nicky -> finicky (adjective)
+nicole -> nice (noun, adjective), auto-assigned as adjective
+nigel -> angel (noun)
+nikki -> Sikkim (noun)
+nikon -> union (noun, adjective), auto-assigned as noun
+nintendo -> intend (verb)
+noclip -> clip (noun, verb), auto-assigned as noun
+nokia -> nomia (noun)
+nonenglish -> English (noun, adjective), auto-assigned as noun
+nope -> open (noun, verb, adjective), auto-assigned as adjective
+nor -> no (noun, adjective, adverb), auto-assigned as adverb
+nora -> normal (noun, adjective), auto-assigned as adjective
+normie -> anomie (noun)
+normies -> anomie (noun)
+norton -> portion (noun, verb), auto-assigned as noun
+nothin -> nothing (noun, adverb), auto-assigned as noun
+notre -> note (noun, verb), auto-assigned as noun
+nottingham -> nothing (noun, adverb), auto-assigned as noun
+novo -> noon (noun)
+ntsc -> nuts (noun, verb, adjective), auto-assigned as noun
+nutten -> utter (verb, adjective), auto-assigned as verb
+nvidia -> India (noun)
+nyc -> nyc (unknown)
+obj -> obj (unknown)
+obsolescenced -> obsolescent (adjective)
+oclc -> o'clock (adverb)
+oecd -> toed (verb, adjective), auto-assigned as verb
+oem -> poem (noun)
+oet -> onset (noun)
+offline -> office (noun)
+oikumene -> spodumene (noun)
+olga -> yoga (noun)
+olivia -> bolivia (noun)
+oneself -> lend_oneself (verb)
+ons -> tons (noun)
+onthego -> on_the_job (adjective)
+onto -> conto (noun)
+ooo -> ovolo (noun)
+oops -> troops (noun, verb), auto-assigned as noun
+openaccess -> access (noun, verb), auto-assigned as noun
+openai -> open (noun, verb, adjective), auto-assigned as adjective
+orazius -> radius (noun)
+org -> organ (noun)
+organometallic -> nonmetallic (adjective)
+others -> other (adjective)
+otto -> motto (noun)
+ought -> thought (noun, verb), auto-assigned as verb
+our -> hour (noun)
+ours -> course (noun, verb, adverb), auto-assigned as noun
+ourselves -> useless (adjective)
+outwarddirected -> undirected (adjective)
+packard -> backward (adjective, adverb), auto-assigned as adjective
+pajeet -> pavement (noun)
+pajeeta -> peseta (noun)
+pam -> pa (noun)
+pamela -> paella (noun)
+panasonic -> anionic (noun, adjective), auto-assigned as noun
+paolo -> polio (noun)
+paso -> pastor (noun)
+patricia -> patrician (noun, adjective), auto-assigned as noun
+paula -> pula (noun)
+paypal -> papa (noun)
+pci -> pi (noun)
+pdf -> pdf (unknown)
+pdt -> pdt (unknown)
+pedo -> pseudo (noun, adjective), auto-assigned as noun
+pedro -> person (noun)
+peggy -> egg (noun, verb), auto-assigned as noun
+pentium -> podetium (noun)
+pepe -> people (noun, verb), auto-assigned as noun
+per -> pier (noun)
+perl -> pearl (noun, verb), auto-assigned as noun
+permalink -> pertain (verb)
+pete -> pet (noun, verb, adjective), auto-assigned as noun
+peterson -> person (noun)
+pfizer -> prize (noun, verb, adjective), auto-assigned as noun
+pgp -> pgp (unknown)
+phentermine -> determine (verb)
+phil -> pill (noun)
+philippe -> Philippines (noun)
+phillip -> fillip (noun)
+phillips -> phillipsite (noun)
+phishing -> wishing (noun, verb), auto-assigned as verb
+phisics -> physics (noun)
+photoshop -> potshot (noun)
+php -> php (unknown)
+phpbb -> phpbb (unknown)
+phyllis -> phyllo (noun)
+phys -> physics (noun)
+pichunter -> hunter (noun)
+piera -> opera (noun)
+piero -> pro (noun, adjective, adverb), auto-assigned as noun
+pietro -> pier (noun)
+playa -> play (noun, verb), auto-assigned as verb
+playstation -> plantation (noun)
+plc -> place (noun, verb), auto-assigned as noun
+plugin -> plug (noun, verb), auto-assigned as noun
+plugins -> plug_in (verb)
+pmc -> pmc (unknown)
+pokemon -> spoken (verb, adjective), auto-assigned as verb
+polly -> poll (noun, verb), auto-assigned as noun
+poly -> poorly (adjective, adverb), auto-assigned as adjective
+ponzi -> phonic (adjective)
+por -> pour (verb)
+porsche -> porch (noun)
+postposted -> postpone (verb)
+powerpoint -> power_point (noun)
+powerseller -> poor_speller (noun)
+ppc -> ppc (unknown)
+ppm -> ppm (unknown)
+pre -> pure (adjective)
+precog -> precook (verb)
+precolonial -> colonial (noun, adjective), auto-assigned as adjective
+prelogar -> regard (noun, verb), auto-assigned as noun
+preston -> rest_on (verb)
+prev -> pure (adjective)
+priscilla -> scilla (noun)
+prix -> premix (noun)
+proc -> rock (noun, verb), auto-assigned as noun
+promo -> promote (verb)
+propecia -> prospect (noun, verb), auto-assigned as noun
+prostores -> protest (noun, verb), auto-assigned as noun
+prot -> pot (noun, verb), auto-assigned as noun
+psp -> psyop (noun)
+psyd -> posy (noun)
+pty -> pity (noun, verb), auto-assigned as noun
+pubmed -> spume (noun, verb), auto-assigned as noun
+puerto -> proto (adjective)
+qanon -> canon (noun)
+qld -> qld (unknown)
+qty -> qty (unknown)
+qua -> quay (noun)
+que -> quite (adverb)
+quentin -> question (noun, verb), auto-assigned as noun
+qui -> quit (verb)
+quinn -> quin (noun)
+quintic -> squint (noun, verb, adjective), auto-assigned as verb
+quixote -> quite (adverb)
+quoque -> quote (noun, verb), auto-assigned as verb
+rafe -> safe (noun, adjective), auto-assigned as adjective
+ralph -> graph (noun, verb), auto-assigned as verb
+randall -> rainfall (noun)
+randolph -> random (adjective)
+randomeffects -> effects (noun, verb), auto-assigned as noun
+ranma -> drama (noun)
+ransomware -> ransom (noun, verb), auto-assigned as noun
+raymond -> ramrod (noun)
+rca -> orca (noun)
+rec -> wreck (noun, verb), auto-assigned as noun
+referencebased -> reference (noun, verb), auto-assigned as noun
+reg -> reign (noun, verb), auto-assigned as noun
+reggie -> regime (noun)
+rehab -> rehash (noun, verb), auto-assigned as verb
+remix -> mix (noun, verb), auto-assigned as verb
+replicant -> republican (noun, adjective), auto-assigned as noun
+reseller -> reveller (noun)
+reuters -> refuter (noun)
+rfc -> rfc (unknown)
+rhode -> horde (noun)
+rica -> erica (noun)
+riccardo -> Ricardo (noun)
+richard -> orchard (noun)
+ricky -> tricky (adjective)
+ringtone -> intone (verb)
+ringtones -> intone (verb)
+rita -> ritual (noun, adjective), auto-assigned as noun
+robbie -> robber (noun)
+roberta -> robber (noun)
+roberto -> robber (noun)
+roger -> roguery (noun)
+roland -> road (noun)
+ronald -> road (noun)
+ronnie -> bonnie (adjective)
+rory -> rotary (noun, adjective), auto-assigned as noun
+rosalba -> arousal (noun)
+rosanna -> hosanna (noun)
+rosie -> rose (noun, verb, adjective), auto-assigned as verb
+rossana -> croissant (noun)
+roy -> royal (noun, adjective), auto-assigned as adjective
+rpg -> rpg (unknown)
+rrp -> rrp (unknown)
+rss -> press (noun, verb), auto-assigned as verb
+ruben -> run (noun, verb), auto-assigned as verb
+runtime -> untie (verb)
+ryan -> Bryan (noun)
+saberhagen -> average (noun, verb, adjective), auto-assigned as adjective
+sabrina -> tsarina (noun)
+sadie -> shade (noun, verb), auto-assigned as noun
+sagem -> stage (noun, verb), auto-assigned as noun
+sal -> sale (noun)
+salvatore -> salvation (noun)
+samantha -> acantha (noun)
+sammy -> shammy (noun)
+samsung -> smug (adjective)
+san -> scan (noun, verb), auto-assigned as verb
+sancho -> anchor (noun, verb), auto-assigned as noun
+sandra -> sandal (noun)
+sans -> span (noun, verb), auto-assigned as noun
+sanyo -> say (noun, verb), auto-assigned as verb
+sao -> so (noun, adverb), auto-assigned as adverb
+sara -> saran (noun)
+sasha -> smash (noun, verb, adverb), auto-assigned as verb
+sayan -> shaytan (noun)
+sbjct -> subject (noun, verb, adjective), auto-assigned as noun
+scapegoating -> coating (noun, verb), auto-assigned as noun
+schizo -> scherzo (noun)
+schizos -> schism (noun)
+schnittstelle -> schnitzel (noun)
+sci -> si (noun)
+scopus -> scours (noun, verb), auto-assigned as verb
+scotia -> scoria (noun)
+screensaver -> screen (noun, verb), auto-assigned as noun
+screensavers -> screen_saver (noun)
+screenshot -> screen (noun, verb), auto-assigned as noun
+screenshots -> screen (noun, verb), auto-assigned as noun
+sean -> season (noun, verb), auto-assigned as noun
+sebastian -> bastion (noun)
+secretarygeneral -> secretary (noun)
+sega -> sea (noun)
+selfconfidence -> confidence (noun)
+selfdirected -> elected (verb, adjective), auto-assigned as verb
+selfdoubt -> doubt (noun, verb), auto-assigned as noun
+selfheal -> skeletal (adjective)
+selfreflection -> reflection (noun)
+selfreplicating -> self-respecting (adjective)
+seo -> so (noun, adverb), auto-assigned as adverb
+seq -> eq (noun)
+ser -> user (noun)
+serena -> verbena (noun)
+sergio -> serious (adjective)
+sexcam -> exclaim (verb)
+sexo -> sex (noun, verb), auto-assigned as noun
+shakira -> hair (noun)
+shall -> hall (noun)
+shalom -> shallow (noun, verb, adjective), auto-assigned as adjective
+shalt -> halt (noun, verb, adjective), auto-assigned as verb
+shane -> share (noun, verb), auto-assigned as noun
+shapefile -> shapeless (adjective)
+shapefiles -> shapeless (adjective)
+sharon -> sharpen (verb)
+she -> shoe (noun, verb), auto-assigned as noun
+sheila -> sheika (noun)
+shemale -> shelve (verb)
+shemales -> shale (noun)
+shenzhen -> sheen (noun)
+shirley -> hire (noun, verb), auto-assigned as verb
+shopzilla -> spill (noun, verb), auto-assigned as verb
+shortterm -> short-term (adjective)
+should -> shoulder (noun, verb), auto-assigned as noun
+sid -> side (noun, verb, adjective), auto-assigned as noun
+sie -> size (noun, verb, adjective), auto-assigned as noun
+sig -> sing (verb)
+sigil -> single (noun, verb, adjective), auto-assigned as adjective
+sigils -> singles (noun, verb), auto-assigned as noun
+signup -> sign (noun, verb, adjective), auto-assigned as noun
+silas -> slash (noun, verb), auto-assigned as verb
+sim -> swim (noun, verb), auto-assigned as verb
+simona -> sonar (noun)
+simone -> simoon (noun)
+sims -> swim (noun, verb), auto-assigned as verb
+since -> silence (noun, verb), auto-assigned as noun
+singh -> sing (verb)
+singleatom -> single (noun, verb, adjective), auto-assigned as adjective
+sirlancelot -> Sir_Lancelot (noun)
+sitemap -> step (noun, verb), auto-assigned as noun
+sjaac -> Isaac (noun)
+sku -> skull (noun)
+skype -> sky (noun, verb), auto-assigned as noun
+slideshow -> slide (noun, verb), auto-assigned as noun
+smd -> smd (unknown)
+smilies -> smile (noun, verb), auto-assigned as verb
+smithsonian -> Esthonian (noun)
+soa -> sofa (noun)
+soc -> so (noun, adverb), auto-assigned as adverb
+solaris -> solar (adjective)
+somethin -> sometime (adjective, adverb), auto-assigned as adjective
+something -> seething (verb, adjective), auto-assigned as verb
+sony -> son (noun)
+sophia -> Psophia (noun)
+sophie -> soph (noun)
+southampton -> southeast (noun, adjective, adverb), auto-assigned as noun
+sox -> so (noun, adverb), auto-assigned as adverb
+sparc -> spare (noun, verb, adjective), auto-assigned as adjective
+spiderman -> spider (noun)
+spongebob -> sponge (noun, verb), auto-assigned as verb
+sql -> sql (unknown)
+src -> sr (noun)
+sri -> strip (noun, verb), auto-assigned as verb
+ssl -> sisal (noun)
+stan -> stand (noun, verb), auto-assigned as noun
+stargate -> stargaze (verb)
+starsmerchant -> merchant (noun)
+stat -> start (noun, verb), auto-assigned as verb
+stats -> status (noun)
+ste -> step (noun, verb), auto-assigned as noun
+stefano -> stewpan (noun)
+stephanie -> spaniel (noun)
+steve -> steel (noun, verb), auto-assigned as noun
+steven -> even (noun, verb, adjective, adverb), auto-assigned as adjective
+storytelling -> storyteller (noun)
+str -> stir (noun, verb), auto-assigned as verb
+struct -> instruct (verb)
+subaru -> sugar (noun, verb), auto-assigned as noun
+subgenre -> genre (noun)
+sublimedirectory -> directory (noun)
+subtext -> subtle (adjective)
+superhero -> superhet (noun)
+susan -> sun (noun, verb), auto-assigned as noun
+suse -> use (noun, verb), auto-assigned as noun
+susie -> suite (noun)
+suzanne -> sane (adjective)
+suzuki -> suzuki (unknown)
+sweaty -> seat (noun, verb), auto-assigned as noun
+sylvia -> sylva (noun)
+symantec -> sympathetic (adjective)
+sys -> stays (noun, verb), auto-assigned as verb
+tahoe -> throe (noun)
+tahor -> metaphor (noun)
+tatoo -> too (adverb)
+tba -> tuba (noun)
+teambuilder -> builder (noun)
+techrepublic -> republic (noun)
+tel -> tell (noun, verb), auto-assigned as verb
+telecharger -> teenager (noun)
+temu -> term (noun, verb), auto-assigned as noun
+ter -> term (noun, verb), auto-assigned as noun
+terraforming -> terrifying (verb, adjective), auto-assigned as verb
+tess -> stress (noun, verb), auto-assigned as noun
+tessa -> essay (noun, verb), auto-assigned as noun
+tex -> text (noun)
+tft -> tuft (noun)
+tgp -> tgp (unknown)
+than -> thank (verb)
+that -> throat (noun)
+thats -> throat (noun)
+the -> then (noun, adjective, adverb), auto-assigned as adverb
+thee -> three (noun, adjective), auto-assigned as noun
+thehun -> then (noun, adjective, adverb), auto-assigned as adverb
+their -> other (adjective)
+theirs -> thirst (noun, verb), auto-assigned as noun
+them -> theme (noun, verb), auto-assigned as noun
+themselves -> thermel (noun)
+theo -> then (noun, adjective, adverb), auto-assigned as adverb
+theodore -> there (noun, adverb), auto-assigned as adverb
+these -> three (noun, adjective), auto-assigned as noun
+they -> then (noun, adjective, adverb), auto-assigned as adverb
+thine -> thin (verb, adjective, adverb), auto-assigned as adjective
+thinkpad -> think (noun, verb), auto-assigned as verb
+this -> things (noun)
+those -> house (noun, verb), auto-assigned as noun
+thot -> hot (adjective)
+thru -> thus (noun, adverb), auto-assigned as adverb
+thu -> thus (noun, adverb), auto-assigned as adverb
+thumbzilla -> thumbnail (noun)
+thy -> pithy (adjective)
+til -> tilt (noun, verb), auto-assigned as noun
+tim -> time (noun, verb), auto-assigned as noun
+tina -> tin (noun, verb), auto-assigned as noun
+tion -> ton (noun)
+tions -> tons (noun)
+titten -> kitten (noun, verb), auto-assigned as noun
+tiziana -> tzarina (noun)
+tmp -> tramp (noun, verb), auto-assigned as noun
+tommy -> mommy (noun)
+tony -> ton (noun)
+toolbar -> tollbar (noun)
+toolkit -> tool (noun, verb), auto-assigned as noun
+toshiba -> shibah (noun)
+toward -> coward (noun)
+towards -> untoward (adjective)
+trackback -> track (noun, verb), auto-assigned as noun
+trackbacks -> take_back (verb)
+tramadol -> strapado (noun)
+tranny -> tray (noun)
+trans -> train (noun, verb), auto-assigned as verb
+transexuales -> transexual (noun)
+travesti -> travesty (noun, verb), auto-assigned as noun
+travis -> ravish (verb)
+trembl -> trembling (noun, verb, adjective), auto-assigned as noun
+treo -> stereo (noun, adjective), auto-assigned as noun
+trevor -> tremor (noun, verb), auto-assigned as noun
+tri -> trip (noun, verb), auto-assigned as noun
+tribulkation -> tabulation (noun)
+tripadvisor -> advisor (noun)
+tue -> true (noun, verb, adjective, adverb), auto-assigned as adjective
+turbo -> tub (noun)
+turksu -> turps (noun)
+twas -> wash (noun, verb), auto-assigned as verb
+twiki -> twinkling (noun, verb, adjective), auto-assigned as verb
+twinflame -> inflame (verb)
+twinks -> wink (noun, verb), auto-assigned as verb
+ugo -> go (noun, verb, adjective), auto-assigned as verb
+ultram -> tramp (noun, verb), auto-assigned as noun
+una -> unau (noun)
+uncounseled -> counsel (noun, verb), auto-assigned as noun
+und -> fund (noun, verb), auto-assigned as verb
+une -> June (noun)
+uni -> unit (noun)
+uniprotkb -> uniprotkb (unknown)
+univ -> unit (noun)
+unless -> sunless (adjective)
+unobtanium -> uranium (noun)
+unsubscribe -> subscribe (verb)
+until -> untie (verb)
+unto -> unit (noun)
+upc -> up (verb, adjective, adverb), auto-assigned as adjective
+upon -> uptown (noun, adjective, adverb), auto-assigned as noun
+upskirt -> skirt (noun, verb), auto-assigned as noun
+upskirts -> upstairs (noun, adjective, adverb), auto-assigned as adverb
+upvote -> vote (noun, verb), auto-assigned as noun
+uri -> lurid (adjective)
+ursula -> usual (adjective)
+urw -> urw (unknown)
+usb -> busby (noun)
+usc -> music (noun)
+usd -> used (verb, adjective), auto-assigned as verb
+username -> serenade (noun, verb), auto-assigned as noun
+usgs -> fuss (noun, verb), auto-assigned as noun
+usr -> user (noun)
+utils -> utilise (verb)
+val -> oval (noun, adjective), auto-assigned as noun
+valentina -> valentine (noun)
+valerie -> varied (verb, adjective), auto-assigned as verb
+vbulletin -> bullet (noun)
+vera -> very (adjective, adverb), auto-assigned as adjective
+verde -> verse (noun, verb), auto-assigned as noun
+verizon -> version (noun)
+vernon -> version (noun)
+versioning -> version (noun)
+versus -> virus (noun)
+verzeichnis -> verzeichnis (unknown)
+vhs -> vhs (unknown)
+via -> vital (adjective)
+vic -> voice (noun, verb), auto-assigned as noun
+vid -> void (noun, verb, adjective), auto-assigned as verb
+videobased -> debased (verb, adjective), auto-assigned as verb
+vids -> void (noun, verb, adjective), auto-assigned as verb
+viewpicture -> picture (noun, verb), auto-assigned as noun
+vince -> voice (noun, verb), auto-assigned as noun
+vincent -> incident (noun, adjective), auto-assigned as noun
+vincenzo -> incienso (noun)
+vivian -> vivid (adjective)
+vodoo -> voodoo (noun, verb), auto-assigned as noun
+voip -> void (noun, verb, adjective), auto-assigned as verb
+vol -> vowel (noun)
+volkswagen -> voltage (noun)
+vols -> volt (noun)
+volvo -> evolve (verb)
+von -> on (adjective, adverb), auto-assigned as adverb
+voyeurweb -> voyeur (noun)
+voyuer -> voyager (noun)
+vpn -> vpn (unknown)
+vsnet -> set (noun, verb, adjective), auto-assigned as verb
+wal -> walk (noun, verb), auto-assigned as verb
+wallmart -> hallmark (noun)
+walt -> wealth (noun)
+wang -> wag (noun, verb), auto-assigned as noun
+wanna -> anna (noun)
+warcraft -> aircraft (noun)
+wasnt -> want (noun, verb), auto-assigned as verb
+wav -> wave (noun, verb), auto-assigned as noun
+webcast -> west (noun, adjective, adverb), auto-assigned as noun
+weblog -> web_log (noun)
+weblogs -> web_log (noun)
+webshots -> shorts (noun, verb), auto-assigned as noun
+wellknown -> known (verb, adjective), auto-assigned as verb
+wendy -> wend (verb)
+what -> hat (noun, verb), auto-assigned as noun
+whats -> hat (noun, verb), auto-assigned as noun
+when -> hen (noun)
+whenever -> never (adverb)
+where -> here (noun, adjective, adverb), auto-assigned as adverb
+whereas -> here (noun, adjective, adverb), auto-assigned as adverb
+wherein -> therein (adverb)
+whereupon -> thereon (adverb)
+whether -> weather (noun, verb, adjective), auto-assigned as verb
+which -> witch (noun, verb), auto-assigned as noun
+whilst -> whistle (noun, verb), auto-assigned as verb
+whither -> hither (adverb)
+whoever -> however (adverb)
+whom -> worm (noun, verb), auto-assigned as noun
+whose -> house (noun, verb), auto-assigned as noun
+wid -> wide (adjective, adverb), auto-assigned as adjective
+widescreen -> wide_screen (noun)
+wiki -> wink (noun, verb), auto-assigned as verb
+wikipedia -> Pinnipedia (noun)
+wiley -> while (noun)
+william -> will (noun, verb), auto-assigned as noun
+willie -> wildlife (noun)
+willy -> will (noun, verb), auto-assigned as noun
+winston -> whinstone (noun)
+winwin -> winning (noun, verb, adjective), auto-assigned as verb
+wishlist -> wish_list (noun)
+with -> wit (noun)
+without -> write_out (verb)
+womens -> woman (noun)
+wordpress -> wordless (adjective)
+worldcat -> world (noun, adjective), auto-assigned as noun
+worldsex -> world (noun, adjective), auto-assigned as noun
+would -> world (noun, adjective), auto-assigned as noun
+xbox -> box (noun, verb), auto-assigned as noun
+xenoforming -> informing (noun, verb), auto-assigned as verb
+xhtml -> xhtml (unknown)
+xml -> ml (noun)
+xnxx -> xnxx (unknown)
+xrp -> xrp (unknown)
+yaa -> aa (noun)
+yahuah -> yahuah (unknown)
+yamaha -> amah (noun)
+yehowah -> howdah (noun)
+yep -> yelp (noun, verb), auto-assigned as noun
+yer -> year (noun)
+you -> youth (noun)
+youporn -> coupon (noun)
+your -> tour (noun, verb), auto-assigned as noun
+yours -> hours (noun)
+yourself -> course (noun, verb, adverb), auto-assigned as noun
+yourselves -> useless (adjective)
+youtube -> tube (noun, verb), auto-assigned as noun
+yyyy -> yyyy (unknown)
+zach -> each (adjective, adverb), auto-assigned as adjective
+zachriel -> chisel (noun, verb), auto-assigned as verb
+zack -> pack (noun, verb), auto-assigned as verb
+zcta -> zeta (noun)
+zctas -> act_as (verb)
+zdnet -> net (noun, verb, adjective), auto-assigned as noun
+zelenskyy -> ensky (verb)
+zoe -> ozone (noun)
+zope -> open (noun, verb, adjective), auto-assigned as adjective
+zshops -> shop (noun, verb), auto-assigned as verb
+zum -> zum (unknown)
